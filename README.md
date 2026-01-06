@@ -1,2 +1,5 @@
-# random-fact-2026-01-06T06-22-18.615Z-426random-fact-2026-01-06T06-22-18.615Z-426
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+Mars is the home of Olympus Mons, the largest known volcano in our solar system
+
+*Generated on 2026-01-06T06:22:20.253Z*
